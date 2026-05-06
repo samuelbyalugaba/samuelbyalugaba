@@ -16,16 +16,18 @@
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,js,ts,git,figma,vscode,vercel,supabase,tailwind&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,tailwind,php,python,dotnet,mongodb,mysql,postgres,firebase,flutter,aws,docker,vercel,figma,vscode,git&theme=dark" />
 </p>
 
 | Layer | Technologies |
 |-------|-------------|
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend** | Node.js, REST APIs |
-| **Database** | PostgreSQL (Supabase) |
-| **Languages** | JavaScript, TypeScript |
-| **Tools** | Git, Figma, VS Code, Vercel |
+| **Design** | Figma, Adobe XD, Photoshop, Illustrator |
+| **Frontend** | React, Next.js, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, PHP, Python, .NET |
+| **Database** | MongoDB, MySQL, PostgreSQL, Firebase |
+| **Cloud & DevOps** | AWS, Vercel, Docker |
+| **Mobile** | Flutter |
+| **Tools** | Git, VS Code |
 
 ---
 
