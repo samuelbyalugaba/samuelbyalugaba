@@ -39,21 +39,6 @@
 
 ---
 
-## 🏗️ Featured Projects
-
-> *Drop 2-3 projects here that prove you can build. Each should have a live demo + repo link.*
-
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelbyalugaba&repo=project-one&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=samuelbyalugaba&repo=project-two&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0d1117" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
